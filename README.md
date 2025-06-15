@@ -1,14 +1,14 @@
 # Excelerate-AI-Powered-Data-Insights-Virtual-Internship
 # Excelerate Internship Journey
 
-A comprehensive data science and analytics internship experience at Excelerate, focusing on churn prediction, student engagement analysis, and strategic business impact modeling.
+A comprehensive data science and analytics internship experience at **Excelerate**, focusing on churn prediction, student engagement analysis, and strategic business impact modeling.
 
 ## 🗂️ Project Structure
 
 | Week | Topic |
 |------|-------|
 | [Week 1](week-1/README.md) | Data Cleaning & Feature Engineering |
-| [Week 2](week-2/README.md) | Campaign Cost Analysis & Optimization |
+| [Week 2](week-2/README.md) | Exploratory Data Analysis (EDA) |
 | [Week 3](week-3/README.md) | Churn Analysis & Predictive Modeling |
 | [Week 4](week-4/README.md) | Engagement Strategy & Recommendation System |
 
@@ -19,9 +19,10 @@ A comprehensive data science and analytics internship experience at Excelerate, 
 - Git & GitHub
 
 ## 🎯 Goals
-- Analyze learner engagement data using AI and machine learning.
+- Analyze learner engagement data using AI and machine learning techniques.
+- Deliver actionable insights to improve opportunity effectiveness.
 - Build predictive models to identify students likely to drop out.
-- Provide actionable insights to improve platform effectiveness.
+- Provide data-driven recommendations for improving platform retention and satisfaction.
 
 ## 📌 Key Deliverables
 - Weekly reports and presentations
@@ -30,5 +31,7 @@ A comprehensive data science and analytics internship experience at Excelerate, 
 - A hybrid recommendation system proposal
 
 ## 📎 Author
-[Fouzia Ashfaq]  
-LinkedIn: [(https://www.linkedin.com/in/fouzia-ashfaq/)] | GitHub: [https://github.com/Fouzia0298]
+Team D  
+Members: Ansh Bugra, Faiza Bashir, Fouzia Ashfaq, Fridaos Akorede, Anubhav Rohilla, Faridat Adewole  
+LinkedIn profiles available in team charter  
+GitHub: [link_to_repo]
